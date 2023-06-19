@@ -1,0 +1,6 @@
+[23:21] 3-4-CHRIS:
+https://doc.shadowpay.com/docs/shadowpay/
+[23:21] 3-4-CHRIS:
+hi hi, I need you to create the same lister script you made for csgomarket but this time with shadowpay, please be sure to change the variable names to reflect this is for shadowpay. 70$
+[23:21] 3-4-CHRIS:
+ae24b09739390c5f3915b904f49b02a3
